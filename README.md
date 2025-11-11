@@ -4,8 +4,8 @@ Documenting my journey with DevOps. This repository and included projects will c
 
 ## Progress
 
--   ☐ Linux Virtual Machines
--   ☐ Homelab Setup
+-   ✅ Linux Virtual Machines
+-   ☐ Homelab Setup (ProxMox VE)
 -   ☐ Networking & SSH Automation
 -   ☐ Bash Scripting
 -   ☐ Cloud
@@ -13,6 +13,7 @@ Documenting my journey with DevOps. This repository and included projects will c
 -   ☐ Multi-container Apps
 -   ☐ CI/CD Pipelines
 -   ☐ Kubernetes
+-   ☐ Homelab Setup (Kubernetes)
 -   ☐ Terraform IaC
 -   ☐ Terraform + K8s
 -   ☐ Configuration Management
